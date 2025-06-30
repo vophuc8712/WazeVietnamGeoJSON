@@ -7,17 +7,16 @@
 <h2>Các bước sử dụng</h2>
 - Bước 1: Truy cập vào web WME (Waze Map Editor) và đăng nhập credential đã đăng ký từ trước.<br>
 - Bước 2: Sau khi đã tải và cài đặt script <b>"WME Geometries"</b>, file .geojson của tỉnh/thành phố TW cần thiết. Vào mục <b>"Your Area"</b> nằm ở thanh bên trái của web. Bạn sẽ thấy mục <b>"Import Geometry File"</b> xuất hiện.<br>
-![Screenshot 2025-07-01 014902](https://github.com/user-attachments/assets/bd880df0-7956-4e8d-951c-c9e2cef30cb8)<br>
+<img src="https://github.com/user-attachments/assets/8473796a-1a29-46fd-95e2-d1159aefa990" alt="..." width="250" /><br>
 - Bước 3: Nhấn <b>"Choose File"</b> chọn lấy file .geojson đã chọn trước đó. Và chờ trong giây lát. Sau khi hoàn tất sẽ hiện các đề mục như bên dưới và click chọn vào <b>"NAME_2" (đối với phường xã), "NAME_1" (đối với tỉnh/ thành phố TW)</b><br>
-![Screenshot 2025-07-01 020359](https://github.com/user-attachments/assets/9da0866d-302a-4117-8170-70a2433092ef)
+<img src="https://github.com/user-attachments/assets/79669096-d8e5-4503-9b7d-820bf4c11c1f" alt="..." width="250" /><br>
 - Và ... ta da... đã hiện lên ranh giới phường xã, tỉnh/thành phố TW theo yêu cầu bạn muốn.<br>
-![Screenshot 2025-07-01 021303](https://github.com/user-attachments/assets/cff4fd68-8978-4b91-9ee4-39b0b1dd094c)
-
+<img src="https://github.com/user-attachments/assets/1a13412b-0a77-47fa-849c-c324b0ee3f2a" alt="350" width="..." /><br>
 <h1>HÃY ĐÓNG GÓP GIÚP WAZE PHÁT TRIỂN TẠI VIỆT NAM</h1><br><br>
 <H1>Waze - Ứng dụng điều hướng, cảnh báo chuẩn nhất, cập nhật nhanh nhất tại Việt Nam</H1><br><br>
-Molnupiravir.
-Editor Level 4.
-Vietnam Waze Map Manager.
+Molnupiravir.<br>
+Editor Level 4.<br>
+Vietnam Waze Map Manager.<br>
 
 <h1>LICENSE:</h1>
 Update new geometry for new Vietnam National Administrative Units after merger<br>
